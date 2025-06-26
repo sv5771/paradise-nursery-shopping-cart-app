@@ -54,12 +54,3 @@ If necessary, the quantity can be increased or decreased.<br>
 If the user still has requests and would like to display the product list, they can click on the “Continue Shopping” button.<br>
 
 ![image](https://github.com/user-attachments/assets/3acdfd10-b960-4679-8f73-bcb714d183d1)
-
-The implementation of the checkout button was not part of the project.<br>
-To inform the user of this, an alert is displayed when the button is clicked:<br>
-![image](https://github.com/user-attachments/assets/87301988-5013-4640-95c1-980eeb931bef)
-
-More is currently not possible in this application.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br>
-<br>
